@@ -1,2 +1,4 @@
 # testing-repo-2
-This is 2nd testing repo
+This is the testing repo.
+
+This is the first commit
